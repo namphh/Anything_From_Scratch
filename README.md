@@ -16,14 +16,14 @@ A small repo that we want to give some value to the community about implementing
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
-| Linear Regression | LinearRegression | Machine Learning, Supervised learning, Predict |
-| Logistic Regresssion | Logistic Regresssion | Machine Learning, Supervised learning, Classification|
-| K Means Clustering | K Mean Clustering | Machine Learning, Clustering|
-| K Near Neighbor | K Near Neighbor | Machine Learning, Clustering |
-| Decision Trees | Decision Trees | Machine Learning |
-| Naive Bayes | Naive Bayes ||
-| PCA | PCA| Machine Learning, Dimension Reduce |
-| SVM | SVM | Machine Learning, Dimension Reduce |
+| Linear Regression | [LinearRegression](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_LinearRegression) | Machine Learning |
+| Logistic Regresssion | [Logistic Regresssion](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_LogisticRegression) | Machine Learning |
+| K Means Clustering | [K Mean Clustering](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_KMeans/PyFile) | Machine Learning |
+| K Near Neighbor | [K Near Neighbor](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_KNN) | Machine Learning |
+| Decision Trees | [Decision Trees](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_KNN) | Machine Learning |
+| Naive Bayes | [Naive Bayes](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_NaiveBayes) | |
+| PCA | [PCA](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_PCA/PyFile) | Machine Learning, Dimension Reduce |
+| SVM | [SVM](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/MachineLearning/AFS_SVM/PyFile) | Machine Learning, Dimension Reduce |
 
 # Computer Vision
 
@@ -43,11 +43,22 @@ A small repo that we want to give some value to the community about implementing
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
+| Dense Vectors |  [Dense Vectors](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DenseVectors.ipynb) | NLP | ---|
+| Words2Vec | [Words2Vec](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/Word2Vec.ipynb) | NLP | |
+| DeepRecurrentNeuralNetworks | [DRNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/DeepRecurrentNeuralNetworks.ipynb) | NLP | ---|
+| GRU | [GRU](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/GRU.ipynb) | NLP | ---|
+| LSTM | [LSTM](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/NLP/LSTM.ipynb) | NLP | ---|
+
 
 # Generative Image Model
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
+| GAN | [GAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/GAN) | GM | ---|
+| DCGAN | [DCGAN](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/GenerativeModel/GAN/DCGAN) | GM | ---|
+| Diffusion | [Diffusion](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/GenerativeModel/Diffusions/Diffusion%20Model.ipynb) | GM | ---|
+
+
 
 # Audio
 
@@ -58,6 +69,13 @@ A small repo that we want to give some value to the community about implementing
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
+| Tensor Basic | [TensorBasics](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/%5BBasics%5DPytorchTensorBasics.ipynb) | |
+| Full Neural Network | [FNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/Simple_FullyNet.ipynb)| |
+| CNN | [CNN](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/Pytorch_simple_CNN.ipynb) | |
+| LSTM | [LSTM](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/pytorch_rnn_gru_lstm.ipynb) | |
+| Load and Save Model | [LoadSave](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/pytorch_loadsave.ipynb) | |
+| Bidirectional | [Bidirectional](https://github.com/ComAlchemist/Anything_From_Scratch/blob/master/PytorchBasics/pytorch_bidirectional_lstm.ipynb) | |
+| CustomImageDataset | [CustomImageDataset](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/PytorchBasics/custom_dataset) | |
 
 # Other
 
