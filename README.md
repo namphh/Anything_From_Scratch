@@ -29,13 +29,15 @@ A small repo that we want to give some value to the community about implementing
 
 | Title | Source | Category/ Tag | Description |
 |---|---|---| ---|
-| LeNet | LeNet | Image Classification, CNN architechture |
-| AlexNet | AlexNet | Image Classification, CNN architechture |
-| VGG | VGG | Image Classification, CNN architechture |
-| ResNet | ResNet | Image Classification, CNN architechture |
-| MobileNet | MobileNet | Image Classification, CNN architechture |
-| Effecient Net | Effecient Net| Image Classification, CNN architechture |
-| Vision in Transformer | ViT | Image Classification, CNN architechture |
+| LeNet | [LeNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/AFS_Lenet) | Image Classification, CNN architechture |
+| AlexNet | [AlexNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/AFS_AlexNet) | Image Classification, CNN architechture |
+| VGG | [VGG](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/AFS_VGG) | Image Classification, CNN architechture |
+| ResNet | [ResNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/AFS_ResNet) | Image Classification, CNN architechture |
+| MobileNet | [MobileNet](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/MobileNet) | Image Classification, CNN architechture |
+| Effecient Net | [Effecient Net](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/EffecientNet)| Image Classification, CNN architechture |
+| Vision in Transformer | [ViT](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ImageClassification/ViT) | Image Classification, CNN architechture |
+| SORT | [SORT](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ObjectTracking/SORT) | Object Tracking |
+| SORTwithYolov8 | [SORTwithYolov8](https://github.com/ComAlchemist/Anything_From_Scratch/tree/master/ComputerVision/ObjectTracking/Yolov8DeepSort) | Object Tracking |
 
 # NLP
 
